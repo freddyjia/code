@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "ClipboardJS.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "export class ClipboardJS{\n    public static Copy(content:string):boolean;\n}"
+}

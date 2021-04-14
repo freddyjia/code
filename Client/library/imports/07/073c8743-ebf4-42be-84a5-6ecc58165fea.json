@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "NoSleepJsTool.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "export class NoSleepJsTool{\n    public static Run();\n}"
+}

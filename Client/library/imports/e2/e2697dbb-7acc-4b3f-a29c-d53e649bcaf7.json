@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "ImageTool.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "export class ImageTool{\n    public static Get(callback);\n    public static Init();\n}"
+}

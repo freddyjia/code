@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "MessageDefine_BankProxy.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "import * as $protobuf from \"protobufjs\";\n/** BankProxyMsgDefine enum. */\nexport enum BankProxyMsgDefine {\n    MSG_BankProxy_Login = 15101,\n    MSG_BankProxy_ProxyInfoReq = 15102,\n    MSG_BankProxy_SubmitDepositReq = 15103,\n    MSG_BankProxy_SubmitOrderReq = 15104\n}\n"
+}

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "jd_tx_loading.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\njd_tx_loading.png\nsize: 366,156\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ny1\n  rotate: false\n  xy: 157, 19\n  size: 136, 136\n  orig: 136, 136\n  offset: 0, 0\n  index: -1\ny2\n  rotate: false\n  xy: 1, 1\n  size: 154, 154\n  orig: 154, 154\n  offset: 0, 0\n  index: -1\ny3\n  rotate: false\n  xy: 295, 80\n  size: 70, 75\n  orig: 70, 75\n  offset: 0, 0\n  index: -1\n"
+}

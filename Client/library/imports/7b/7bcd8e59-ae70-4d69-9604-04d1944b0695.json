@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "LabelFunc.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "export class LabelFunc{\n    public static UpdateRenderData(label:cc.Label);\n}"
+}

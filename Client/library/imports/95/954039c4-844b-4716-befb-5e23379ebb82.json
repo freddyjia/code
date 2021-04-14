@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "JSOpenUrl.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "export class JSOpenUrl{\n    public static JustOpen(url:string);\n    public static DirectOpen(url:string);\n    public static BlankOpen(url:string);\n}"
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Scripts\\Global\\Global.ts"],"names":[],"mappings":";;;;;;AAAA;IAAA;IAIA,CAAC;IAFiB,cAAO,GAAG,IAAI,CAAC;IACf,gBAAS,GAAG,KAAK,CAAC;IACpC,aAAC;CAJD,AAIC,IAAA;kBAJoB,MAAM","file":"","sourceRoot":"/","sourcesContent":["export default class Global\n{\n    public static showLog = true;\n    public static isRelease = false;\n}\n"]}

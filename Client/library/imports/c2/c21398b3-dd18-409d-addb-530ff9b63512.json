@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "JSGenQrcode.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "export class JSGenQrcode{\n    public static Gen(url:string):boolean[][];\n}"
+}

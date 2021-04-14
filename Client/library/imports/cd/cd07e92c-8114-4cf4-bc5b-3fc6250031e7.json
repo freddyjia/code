@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "JsGetIP.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "export class JsGetIP{\n    public static JsGet(callback:(success:boolean,data:string)=>void);\n}"
+}

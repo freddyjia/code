@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "JsGetUrlParms.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "export class JsGetUrlParms{\n    public static GetUrlParms():{[key:string]:string};\n    public static SetUrlParmsToWindow();\n}"
+}
